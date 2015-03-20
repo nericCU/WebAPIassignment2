@@ -1,0 +1,694 @@
+{
+	"id": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+	"name": "AssignmentTwoTests",
+	"description": "",
+	"order": [
+		"b0fd79f8-6941-217c-683d-816c4115d8a1",
+		"aefed89d-319a-a7c4-bbdd-551db4259d50",
+		"d1d733c1-3ca9-54db-68ca-5a24b04ca174",
+		"1835fde9-d6c6-b2ee-315a-01e6c268f935",
+		"dfde06d2-97d3-f08a-4110-970d877c48d6",
+		"709111f1-ba86-ce83-c19a-84fc418b5050",
+		"74688ac8-71f6-61e2-fa76-fda1461520cd",
+		"395e636a-c354-0171-ba4b-8e9ff59297f8",
+		"2f5330ce-5989-fc4b-02db-6183b913d2fd",
+		"d063dba8-8b84-4726-1cb6-2dc71d681f48",
+		"2907939d-66bf-88ae-6b08-530a87be5e7c",
+		"a6a072be-6f7b-a86b-bea5-373b11cdc348",
+		"8822f3eb-366d-73f1-c687-57e725e09e6f",
+		"1dedcdb2-16b7-0539-dabe-f313e0577241",
+		"1ba664c3-a565-cb1e-a864-ead96d91faea",
+		"eab03ca7-fa53-5259-fd1c-80af6ad4027f",
+		"e9f6cc63-24e7-3d7d-a3dd-e7e00f54cde3",
+		"e79293bb-dc0f-d116-17fe-fcaa13a5d469",
+		"0085d196-1298-c6f9-9a1b-d05779c7f6d3",
+		"e22aedf3-eea2-1712-1763-24e3f1f91923",
+		"a19c1ff2-1272-21c6-ac27-ac0c6484780d",
+		"147b9944-78da-b3d6-eb33-3363673fa535",
+		"972d70c9-95f5-8c4d-8057-15fb3729efaa",
+		"86383dff-827f-dda0-1ea6-cc4ddf845aec"
+	],
+	"folders": [],
+	"timestamp": 1426849262830,
+	"synced": false,
+	"owner": "",
+	"subscribed": false,
+	"remoteLink": "",
+	"public": false,
+	"write": true,
+	"requests": [
+		{
+			"id": "0085d196-1298-c6f9-9a1b-d05779c7f6d3",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861083485,
+			"name": "deletes - PUT",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "147b9944-78da-b3d6-eb33-3363673fa535",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861096465,
+			"name": "randomURL - POST",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "1835fde9-d6c6-b2ee-315a-01e6c268f935",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860799103,
+			"name": "BaseURL-Deletes",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "1ba664c3-a565-cb1e-a864-ead96d91faea",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861070986,
+			"name": "puts - PUT",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "1dedcdb2-16b7-0539-dabe-f313e0577241",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861059985,
+			"name": "puts - POST",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "2907939d-66bf-88ae-6b08-530a87be5e7c",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860944169,
+			"name": "posts - PUT",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "2f5330ce-5989-fc4b-02db-6183b913d2fd",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860909311,
+			"name": "posts - GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "395e636a-c354-0171-ba4b-8e9ff59297f8",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860887411,
+			"name": "gets - GET copy",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "709111f1-ba86-ce83-c19a-84fc418b5050",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860879634,
+			"name": "gets - GET copy",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "74688ac8-71f6-61e2-fa76-fda1461520cd",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860882772,
+			"name": "gets - GET copy",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "86383dff-827f-dda0-1ea6-cc4ddf845aec",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861088002,
+			"name": "randomURL - GET copy",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "8822f3eb-366d-73f1-c687-57e725e09e6f",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860964875,
+			"name": "puts - GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "972d70c9-95f5-8c4d-8057-15fb3729efaa",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861091909,
+			"name": "randomURL - PUT",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "a19c1ff2-1272-21c6-ac27-ac0c6484780d",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860993683,
+			"name": "randomURL - GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "a6a072be-6f7b-a86b-bea5-373b11cdc348",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860947941,
+			"name": "posts - DELETE",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "aefed89d-319a-a7c4-bbdd-551db4259d50",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "BaseURL-POST",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1426849366664,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionOwner": 0,
+			"synced": false
+		},
+		{
+			"id": "b0fd79f8-6941-217c-683d-816c4115d8a1",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860808305,
+			"name": "BaseURL-GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "d063dba8-8b84-4726-1cb6-2dc71d681f48",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860939961,
+			"name": "posts - POST",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "d1d733c1-3ca9-54db-68ca-5a24b04ca174",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "PUT",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "BaseURL-PUT",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1426849394331,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionOwner": 0,
+			"synced": false
+		},
+		{
+			"id": "dfde06d2-97d3-f08a-4110-970d877c48d6",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860861628,
+			"name": "gets - GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "e22aedf3-eea2-1712-1763-24e3f1f91923",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861079648,
+			"name": "deletes - DELETE",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "e79293bb-dc0f-d116-17fe-fcaa13a5d469",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861075924,
+			"name": "deletes - POST",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		},
+		{
+			"id": "e9f6cc63-24e7-3d7d-a3dd-e7e00f54cde3",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426860964875,
+			"name": "deletes - GET",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false,
+			"collectionOwner": 0
+		},
+		{
+			"id": "eab03ca7-fa53-5259-fd1c-80af6ad4027f",
+			"headers": "",
+			"url": "http://neric-test.apigee.net/hello-world-nodejs/gets",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [
+				{
+					"key": "name",
+					"value": "Larry",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1426861067786,
+			"name": "puts - DELETE",
+			"description": "",
+			"collectionId": "9e6b60f0-72b5-e271-521c-2e54f6afe5f0",
+			"responses": [],
+			"synced": false
+		}
+	]
+}
