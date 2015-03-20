@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testSuite>
+  <testCase>
+    <disabled>false</disabled>
+    <label>BaseURL TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+  <testCase>
+    <disabled>false</disabled>
+    <label>gets TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+  <testCase>
+    <disabled>false</disabled>
+    <label>posts TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+  <testCase>
+    <disabled>false</disabled>
+    <label>puts TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+  <testCase>
+    <disabled>false</disabled>
+    <label>deletes TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+  <testCase>
+    <disabled>false</disabled>
+    <label>randomURLentered TestCase</label>
+    <loadTestCount>0</loadTestCount>
+    <securityTestCount>0</securityTestCount>
+    <testStepCount>4</testStepCount>
+  </testCase>
+</testSuite>

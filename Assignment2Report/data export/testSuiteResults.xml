@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testSuiteResults>
+  <testCase>
+    <startTime>07:52:33</startTime>
+    <status>FINISHED</status>
+    <testCaseId>24acf1e1-de8d-4f75-9e38-2b4477cb5a34</testCaseId>
+    <testCaseName>BaseURL TestCase</testCaseName>
+    <timeTaken>319</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [BaseURL - GET] UNKNOWN: took 126 ms</message>
+        <name>BaseURL - GET</name>
+        <order>2</order>
+        <started>07:52:33.196</started>
+        <status>UNKNOWN</status>
+        <timeTaken>126</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [BaseURL - POST] UNKNOWN: took 66 ms</message>
+        <name>BaseURL - POST</name>
+        <order>3</order>
+        <started>07:52:33.332</started>
+        <status>UNKNOWN</status>
+        <timeTaken>66</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [BaseURL - PUT] UNKNOWN: took 66 ms</message>
+        <name>BaseURL - PUT</name>
+        <order>4</order>
+        <started>07:52:33.400</started>
+        <status>UNKNOWN</status>
+        <timeTaken>66</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [BaseURL - DELETE] UNKNOWN: took 61 ms</message>
+        <name>BaseURL - DELETE</name>
+        <order>5</order>
+        <started>07:52:33.468</started>
+        <status>UNKNOWN</status>
+        <timeTaken>61</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+  <testCase>
+    <startTime>07:52:33</startTime>
+    <status>FINISHED</status>
+    <testCaseId>059b83e2-1e87-4cd7-a01d-086b360eb96a</testCaseId>
+    <testCaseName>gets TestCase</testCaseName>
+    <timeTaken>260</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [gets - GET] UNKNOWN: took 63 ms</message>
+        <name>gets - GET</name>
+        <order>2</order>
+        <started>07:52:33.533</started>
+        <status>UNKNOWN</status>
+        <timeTaken>63</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [gets - POST] UNKNOWN: took 67 ms</message>
+        <name>gets - POST</name>
+        <order>3</order>
+        <started>07:52:33.602</started>
+        <status>UNKNOWN</status>
+        <timeTaken>67</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [gets - PUT] UNKNOWN: took 68 ms</message>
+        <name>gets - PUT</name>
+        <order>4</order>
+        <started>07:52:33.671</started>
+        <status>UNKNOWN</status>
+        <timeTaken>68</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [gets - DELETE] UNKNOWN: took 62 ms</message>
+        <name>gets - DELETE</name>
+        <order>5</order>
+        <started>07:52:33.740</started>
+        <status>UNKNOWN</status>
+        <timeTaken>62</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+  <testCase>
+    <startTime>07:52:33</startTime>
+    <status>FINISHED</status>
+    <testCaseId>11cfbb27-00dc-4c9c-abe3-1ebb6a4f63b8</testCaseId>
+    <testCaseName>posts TestCase</testCaseName>
+    <timeTaken>259</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [posts - GET] UNKNOWN: took 67 ms</message>
+        <name>posts - GET</name>
+        <order>2</order>
+        <started>07:52:33.806</started>
+        <status>UNKNOWN</status>
+        <timeTaken>67</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [posts - POST] UNKNOWN: took 65 ms</message>
+        <name>posts - POST</name>
+        <order>3</order>
+        <started>07:52:33.879</started>
+        <status>UNKNOWN</status>
+        <timeTaken>65</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [posts - PUT] UNKNOWN: took 65 ms</message>
+        <name>posts - PUT</name>
+        <order>4</order>
+        <started>07:52:33.952</started>
+        <status>UNKNOWN</status>
+        <timeTaken>65</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [posts - DELETE] UNKNOWN: took 62 ms</message>
+        <name>posts - DELETE</name>
+        <order>5</order>
+        <started>07:52:34.018</started>
+        <status>UNKNOWN</status>
+        <timeTaken>62</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+  <testCase>
+    <startTime>07:52:34</startTime>
+    <status>FINISHED</status>
+    <testCaseId>5868f1f5-b430-4db3-a35d-a11f8f98d1fc</testCaseId>
+    <testCaseName>puts TestCase</testCaseName>
+    <timeTaken>262</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [puts - GET] UNKNOWN: took 69 ms</message>
+        <name>puts - GET</name>
+        <order>2</order>
+        <started>07:52:34.083</started>
+        <status>UNKNOWN</status>
+        <timeTaken>69</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [puts - POST] UNKNOWN: took 64 ms</message>
+        <name>puts - POST</name>
+        <order>3</order>
+        <started>07:52:34.154</started>
+        <status>UNKNOWN</status>
+        <timeTaken>64</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [puts - PUT] UNKNOWN: took 66 ms</message>
+        <name>puts - PUT</name>
+        <order>4</order>
+        <started>07:52:34.220</started>
+        <status>UNKNOWN</status>
+        <timeTaken>66</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [puts - DELETE] UNKNOWN: took 63 ms</message>
+        <name>puts - DELETE</name>
+        <order>5</order>
+        <started>07:52:34.290</started>
+        <status>UNKNOWN</status>
+        <timeTaken>63</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+  <testCase>
+    <startTime>07:52:34</startTime>
+    <status>FINISHED</status>
+    <testCaseId>e6b215ab-ccb7-45c4-8162-a1a3130e5d30</testCaseId>
+    <testCaseName>deletes TestCase</testCaseName>
+    <timeTaken>259</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [deletes - GET] UNKNOWN: took 66 ms</message>
+        <name>deletes - GET</name>
+        <order>2</order>
+        <started>07:52:34.355</started>
+        <status>UNKNOWN</status>
+        <timeTaken>66</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [deletes - POST] UNKNOWN: took 68 ms</message>
+        <name>deletes - POST</name>
+        <order>3</order>
+        <started>07:52:34.423</started>
+        <status>UNKNOWN</status>
+        <timeTaken>68</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [deletes - PUT] UNKNOWN: took 63 ms</message>
+        <name>deletes - PUT</name>
+        <order>4</order>
+        <started>07:52:34.493</started>
+        <status>UNKNOWN</status>
+        <timeTaken>63</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [deletes - DELETE] UNKNOWN: took 62 ms</message>
+        <name>deletes - DELETE</name>
+        <order>5</order>
+        <started>07:52:34.558</started>
+        <status>UNKNOWN</status>
+        <timeTaken>62</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+  <testCase>
+    <startTime>07:52:34</startTime>
+    <status>FINISHED</status>
+    <testCaseId>c5ad8c62-4d83-4803-a54c-3cf1c52b742d</testCaseId>
+    <testCaseName>randomURLentered TestCase</testCaseName>
+    <timeTaken>262</timeTaken>
+    <testStepResults>
+      <result>
+        <message>Step 1 [randomURLentered - GET] UNKNOWN: took 65 ms</message>
+        <name>randomURLentered - GET</name>
+        <order>2</order>
+        <started>07:52:34.623</started>
+        <status>UNKNOWN</status>
+        <timeTaken>65</timeTaken>
+      </result>
+      <result>
+        <message>Step 2 [randomURLentered - POST] UNKNOWN: took 64 ms</message>
+        <name>randomURLentered - POST</name>
+        <order>3</order>
+        <started>07:52:34.690</started>
+        <status>UNKNOWN</status>
+        <timeTaken>64</timeTaken>
+      </result>
+      <result>
+        <message>Step 3 [randomURLentered - PUT] UNKNOWN: took 64 ms</message>
+        <name>randomURLentered - PUT</name>
+        <order>4</order>
+        <started>07:52:34.757</started>
+        <status>UNKNOWN</status>
+        <timeTaken>64</timeTaken>
+      </result>
+      <result>
+        <message>Step 4 [randomURLentered - DELETE] UNKNOWN: took 69 ms</message>
+        <name>randomURLentered - DELETE</name>
+        <order>5</order>
+        <started>07:52:34.822</started>
+        <status>UNKNOWN</status>
+        <timeTaken>69</timeTaken>
+      </result>
+    </testStepResults>
+    <failedTestSteps/>
+  </testCase>
+</testSuiteResults>
